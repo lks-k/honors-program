@@ -42,7 +42,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | ---------------------------------- | --- | ---- | ------- | -------- | ------- |
 | AI/ML in the Era of Climate Change | VU  | 4    | 3       | 2023W    | 194.125 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8472&dsrid=864&courseNr=194125)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8472&dsrid=864&courseNr=194125)
 
 ##### Lernergebnisse
 
@@ -85,7 +85,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | -------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Probabilistic Programming and AI | VU  | 6    | 4       | 2023W    | 194.150 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8472&dsrid=976&courseNr=194150&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8472&dsrid=976&courseNr=194150&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -116,7 +116,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | ---------------------------- | --- | ---- | ------- | -------- | ------- |
 | Selbstorganisierende Systeme | VU  | 4.5  | 3       | 2023W    | 188.413 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=786&courseNr=188413&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=786&courseNr=188413&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -173,7 +173,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | ------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Logik für Wissensrepräsentation | VU  | 6    | 4       | 2023W    | 192.025 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=109&courseNr=192025&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=109&courseNr=192025&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -217,7 +217,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | ------------------------------ | --- | ---- | ------- | -------- | ------- |
 | Einführung in Machine Learning | VU  | 6    | 4       | 2023W    | 194.025 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=838&courseNr=194025&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=838&courseNr=194025&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -261,7 +261,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | ------------------------------------------------------------ | --- | ---- | ------- | -------- | ------- |
 | Sicherheit, Privacy und Erklärbarkeit in Maschinellem Lernen | VU  | 3    | 2       | 2024S    | 194.055 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=312&courseNr=194055)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=312&courseNr=194055)
 
 ##### Lernergebnisse
 
@@ -288,7 +288,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | ---------------------------------------------------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Project in Computer Science 1 - Machine Learning Algorithms and Applications | PR  | 6    | 4       | 2023W    | 194.119 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=316&courseNr=194119&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=316&courseNr=194119&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -338,7 +338,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | --------------------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Deep Learning for Natural Language Processing | VU  | 6    | 4       | 2024S    | 192.039 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=8621&dsrid=906&courseNr=192039&semester=2024S)
+[TISS ↗](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=8621&dsrid=906&courseNr=192039&semester=2024S)
 
 ##### Lernergebnisse
 
@@ -374,7 +374,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | ------------------------------------------------------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Seminar in Artificial Intelligence : Neuroscience-based Artificial Intelligence | SE  | 3    | 2       | 2024S    | 192.037 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=980&courseNr=192037)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8621&dsrid=980&courseNr=192037)
 
 ##### Lernergebnisse
 
@@ -402,7 +402,7 @@ With an ECTS sum of $21$, meaning the whole Honors program would have $46.5$ ECT
 | ---------------- | --- | ---- | ------- | -------- | ------- |
 | Knowledge Graphs | VU  | 3    | 2       | 2024S    | 192.116 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=8621&dsrid=899&courseNr=192116&semester=2024S)
+[TISS ↗](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=8621&dsrid=899&courseNr=192116&semester=2024S)
 
 ##### Lernergebnisse
 

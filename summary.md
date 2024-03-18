@@ -142,7 +142,7 @@
 | ------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Logik für Wissensrepräsentation | VU  | 6    | 4       | 2023W    | 192.025 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=7910&dsrid=724&courseNr=192025&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=7910&dsrid=724&courseNr=192025&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -195,7 +195,7 @@
 | ------------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Einführung in Artificial Intelligence | VU  | 6    | 4       | 2024S    | 192.027 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=4246&dsrid=367&courseNr=192027&semester=2024S)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=4246&dsrid=367&courseNr=192027&semester=2024S)
 
 ##### Lernergebnisse
 
@@ -223,7 +223,7 @@
 | ------------------------------ | --- | ---- | ------- | -------- | ------- |
 | Einführung in Machine Learning | VU  | 6    | 4       | 2023W    | 194.025 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1056&dsrid=154&courseNr=194025&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1056&dsrid=154&courseNr=194025&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -278,7 +278,7 @@
 | ---------------- | --- | ---- | ------- | -------- | ------- |
 | Machine Learning | VU  | 4.5  | 3       | 2023W    | 184.702 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=5078&dsrid=442&courseNr=184702&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=5078&dsrid=442&courseNr=184702&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -308,7 +308,7 @@
 | ---------------------------- | --- | ---- | ------- | -------- | ------- |
 | Selbstorganisierende Systeme | VU  | 4.5  | 3       | 2023W    | 188.413 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=188413&semester=2023W&dswid=2228&dsrid=785)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=188413&semester=2023W&dswid=2228&dsrid=785)
 
 ##### Lernergebnisse
 
@@ -355,7 +355,7 @@
 | ----------------------------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Problem Solving and Search in Artificial Intelligence | VU  | 3    | 2       | 2024S    | 181.190 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=181190&semester=2024S&dswid=6319&dsrid=937)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=181190&semester=2024S&dswid=6319&dsrid=937)
 
 ##### Lernergebnisse
 
@@ -400,7 +400,7 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | ------------------------------------------------------------ | --- | ---- | ------- | -------- | ------- |
 | Sicherheit, Privacy und Erklärbarkeit in Maschinellem Lernen | VU  | 3    | 2       | 2023S    | 194.055 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8562&dsrid=854&courseNr=194055)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8562&dsrid=854&courseNr=194055)
 
 ##### Lernergebnisse
 
@@ -441,8 +441,8 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | ------------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Machine Learning for Visual Computing | VU  | 4.5  | 3       | 2023W    | 183.605 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=183605&semester=2023W&dswid=6767&dsrid=254)
-[Homepage $\nearrow$](https://cvl.tuwien.ac.at/course/machine-learning-for-visual-computing-vu/)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=183605&semester=2023W&dswid=6767&dsrid=254)
+[Homepage ↗](https://cvl.tuwien.ac.at/course/machine-learning-for-visual-computing-vu/)
 
 ##### Lernergebnisse
 
@@ -496,8 +496,8 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | ---------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Deep Learning for Visual Computing | VU  | 3    | 2       | 2023S    | 183.663 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=6767&dsrid=103&courseNr=183663)
-[Homepage $\nearrow$](https://cvl.tuwien.ac.at/course/dlvc/)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=6767&dsrid=103&courseNr=183663)
+[Homepage ↗](https://cvl.tuwien.ac.at/course/dlvc/)
 
 ##### Lernergebnisse
 
@@ -530,8 +530,8 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | -------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Probabilistic Programming and AI | VU  | 6    | 4       | 2023W    | 194.150 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=194150&semester=2023W&dswid=2640&dsrid=522)
-[Homepage $\nearrow$](https://probprog-ai-tuwien.github.io/2023/)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=194150&semester=2023W&dswid=2640&dsrid=522)
+[Homepage ↗](https://probprog-ai-tuwien.github.io/2023/)
 
 ##### Lernergebnisse
 
@@ -575,7 +575,7 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | ------------------------- | --- | ---- | ------- | -------- | ------- |
 | Bayesian Machine Learning | VO  | 3    | 2       | 2023W    | 389.207 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=7079&dsrid=291&courseNr=389207&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=7079&dsrid=291&courseNr=389207&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -612,7 +612,7 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | ------------- | --- | ---- | ------- | -------- | ------- |
 | Generative AI | VU  | 3    | 2       | 2023W    | 194.154 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=5542&dsrid=635&courseNr=194154&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=5542&dsrid=635&courseNr=194154&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -638,7 +638,7 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | --------------------------------------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Theoretical Foundations and Research Topics in Machine Learning | VU  | 3    | 2       | 2023W    | 194.100 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1996&dsrid=390&courseNr=194100&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1996&dsrid=390&courseNr=194100&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -677,7 +677,7 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | --------------------- | --- | ---- | ------- | -------- | ------- |
 | Applied Deep Learning | VU  | 3    | 2       | 2023W    | 194.077 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=194077&semester=2023W&dswid=3508&dsrid=766)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=194077&semester=2023W&dswid=3508&dsrid=766)
 
 ##### Lernergebnisse
 
@@ -724,7 +724,7 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | -------------------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Machine Learning Algorithms and Applications | VU  | 3    | 2       | 2023W    | 194.101 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=3508&dsrid=68&courseNr=194101&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=3508&dsrid=68&courseNr=194101&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -789,7 +789,7 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | ------------------------------------------- | --- | ---- | ------- | -------- | ------- |
 | Introduction to Natural Language Processing | VU  | 3    | 2       | 2023W    | 192.052 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=3508&dsrid=290&courseNr=192052&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=3508&dsrid=290&courseNr=192052&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -832,7 +832,7 @@ Noch unklar ob diese Lehrveranstaltung im neuen Studienplan enthalten ist.
 | ---------------------------- | --- | ---- | ------- | -------- | ------- |
 | Statistische Mustererkennung | VO  | 3    | 2       | 2023W    | 183.425 |
 
-[TISS $\nearrow$](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=3508&dsrid=72&courseNr=183425&semester=2023W)
+[TISS ↗](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=3508&dsrid=72&courseNr=183425&semester=2023W)
 
 ##### Lernergebnisse
 
@@ -877,7 +877,7 @@ der Rechtswissenschaften-Studiengänge enthalten.
 | -------------------------------- | --- | ---- | ------- | -------- | ------ |
 | Künstliche Intelligenz und Recht | KU  | 3    | 2       | 2023W    | 030597 |
 
-[u:find $\nearrow$](https://ufind.univie.ac.at/de/course.html?lv=030597&semester=2023W)
+[u:find ↗](https://ufind.univie.ac.at/de/course.html?lv=030597&semester=2023W)
 
 ##### Ziele, Inhalte und Methode der Lehrveranstaltung
 
@@ -898,7 +898,7 @@ enthalten.
 | ------------------------------- | --- | ---- | ------- | -------- | ------ |
 | Mathematics of Machine Learning | VU  | 7    | 4       | 2023S    | 250042 |
 
-[u:find $\nearrow$](https://ufind.univie.ac.at/de/course.html?lv=250042&semester=2023S)
+[u:find ↗](https://ufind.univie.ac.at/de/course.html?lv=250042&semester=2023S)
 
 ##### Ziele, Inhalte und Methode der Lehrveranstaltung
 
@@ -941,7 +941,7 @@ FDA (052300 VU Foundations of Data Analysis) or an equivalent lecture.
 | ----------- | --- | ---- | ------- | -------- | ------ |
 | Data Mining | VU  | 6    | 4       | 2023W    | 052311 |
 
-[u:find $\nearrow$](https://ufind.univie.ac.at/de/course.html?lv=052311&semester=2023W)
+[u:find ↗](https://ufind.univie.ac.at/de/course.html?lv=052311&semester=2023W)
 
 ##### Ziele, Inhalte und Methode der Lehrveranstaltung
 
@@ -975,7 +975,7 @@ FDA (052300 VU Foundations of Data Analysis) or an equivalent lecture.
 | --------------------------------------------- | --- | ---- | ------- | -------- | ------ |
 | Deep Learning for Natural Language Processing | VU  | 6    | 4       | 2023W    | 052316 |
 
-[u:find $\nearrow$](https://ufind.univie.ac.at/de/course.html?lv=052316&semester=2023W)
+[u:find ↗](https://ufind.univie.ac.at/de/course.html?lv=052316&semester=2023W)
 
 ##### Ziele, Inhalte und Methode der Lehrveranstaltung
 
@@ -1002,7 +1002,7 @@ FDA (052300 VU Foundations of Data Analysis) or an equivalent lecture.
 | ---------------------------------------------------------- | --- | ---- | ------- | -------- | ------ |
 | Practical Machine Learning for Natural Language Processing | VU  | 10   | 4       | 2023S    | 136040 |
 
-[u:find $\nearrow$](https://ufind.univie.ac.at/de/course.html?lv=136040&semester=2023S)
+[u:find ↗](https://ufind.univie.ac.at/de/course.html?lv=136040&semester=2023S)
 
 ##### Ziele, Inhalte und Methode der Lehrveranstaltung
 
@@ -1024,7 +1024,7 @@ FDA (052300 VU Foundations of Data Analysis) or an equivalent lecture.
 | ---- | --- | ---- | ------- | -------- | --- |
 |      |     |      |         |          |     |
 
-[TISS $\nearrow$]()
+[TISS ↗]()
 
 ##### Lernergebnisse
 
