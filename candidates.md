@@ -1,6 +1,6 @@
 # Candidate LVAs for the Honors Program
 
-All of them are held in the TU Vienna.
+All of them are held at the TU Vienna.
 
 Currently, no internships or similar are included.
 I am worried that it's a bit late to seek some internships opportunities?
